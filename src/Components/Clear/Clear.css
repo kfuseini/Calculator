@@ -1,0 +1,9 @@
+.clear {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(255, 253, 247);
+    width: 302px;
+    height: 100px;
+    font-size: 30px;
+}

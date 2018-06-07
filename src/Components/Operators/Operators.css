@@ -1,0 +1,6 @@
+.operators{
+    display: grid;
+    /* flex-direction: cs */
+    grid-gap: 1px;
+
+}
